@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    background-color:rgb(53,53,53);
+    color:whitesmoke;
+}
+
+.top{
+    text-align:center;
+    width:540px;
+    margin:auto;
+}
+
+header{
+    font-size: 72px;
+    font-style:italic;
+}
+h3{
+    font-style:Unica One;
+    font-size:26px;
+}
+.watch_container{
+    border-style:groove;
+    border:solid 2px #FDEFA6;
+    margin-top:15px;
+    margin-right:50px;
+    margin-left:50px;
+    background:#1A1818
+}
+h2{
+    font-style:Unica One;
+    font-size:26px
+}
+p{
+    font-style:Dosis;
+    font-size:16px
+}
